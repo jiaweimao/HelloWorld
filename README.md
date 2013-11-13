@@ -1,6 +1,4 @@
 HelloWorld
 ==========
-$ mkdir ~/Hello-World
-$ cd ~/Hello-World
-$ git init
-$ touch README
+This project is created for test.
+Java is used for test of Algorithms
